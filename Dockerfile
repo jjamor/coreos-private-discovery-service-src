@@ -1,5 +1,5 @@
 FROM scratch
-MAINTAINER "CoreOS, Inc"
+MAINTAINER Juan Jose Amor <jjamorNOSPAM@gmail.com>
 EXPOSE 8087
 
 # You need to build bin/discovery-linux64-static first; check build-static.
